@@ -2,7 +2,7 @@
 Software Engineer from Mexico. By day, my work revolves around writing code (.py, .php, .ts, .bash, .hcl, .yaml etc), building APIs, and integrating LLMs and RAG workflows (though none of that proprietary code makes it to this GitHub account). In my free time, you'll find my open-source projects here, including native Linux applications built in Rust (currently learning).
 
 ### Current Focus
-~~Right now, my ADHD hyperfocus is channeled into [QBZ](https://github.com/vicrodh/qbz), a native Qobuz client for Linux. It has somehow evolved into a serious Rust project (which people are actually using and enjoying, haha) and the perfect excuse to obsess over high-fidelity audio playback, metadata parsing, and UI details, proving it's actually fun to escape the dark depths of backend and infra every once in a while.~~ Probably, now to Tlacuilo, my PDF viewer/editor hahaha
+~~Right now, my ADHD hyperfocus is channeled into [QBZ](https://github.com/vicrodh/qbz), a native Qobuz client for Linux. It has somehow evolved into a serious Rust project (which people are actually using and enjoying, haha) and the perfect excuse to obsess over high-fidelity audio playback, metadata parsing, and UI details, proving it's actually fun to escape the dark depths of backend and infra every once in a while.~~ **Chilpa**, from nahuatl ***Chilpatl*** 𓆤, yes it's a music player. 
 
 ### My setup
 Linux user since 1999. I use Gentoo (BTW) for its flexibility and performance, and because every sufficiently long emerge is a perfectly valid excuse to grab another cup of coffee. 
